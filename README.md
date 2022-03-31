@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
+- 🎓 I'm an incomming Ph.D. student at the University of Rochester!
 - 🔭 I’m currently working at @PingCAP.
 - 🌱 I’m currently learning database, category theory and HoTT.
 - 👯 I’m looking to collaborate on PL, OS and DBMS.
-- 🤔 I’m looking for help with PhD Application.
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: 
   - email: i@zhuyi.fan
