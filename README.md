@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 
-- 🎓 I'm an incomming Ph.D. student at the University of Rochester!
-- 🔭 I’m currently working at @PingCAP.
+- 🎓 I'm an Ph.D. student at the University of Rochester!
 - 🌱 I’m currently learning database, category theory and HoTT.
 - 👯 I’m looking to collaborate on PL, OS and DBMS.
 - 💬 Ask me about anything you like!
