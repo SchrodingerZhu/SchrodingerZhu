@@ -3,8 +3,7 @@
 ### Hi there 👋
 
 - 🎓 I'm an Ph.D. student at the University of Rochester!
-- 🌱 I’m currently learning database, category theory and HoTT.
-- 👯 I’m looking to collaborate on PL, OS and DBMS.
+- 🌱 I'm currently working at NVIDIA.
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: 
   - email: i@zhuyi.fan
