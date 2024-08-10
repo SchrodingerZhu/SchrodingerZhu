@@ -5,6 +5,7 @@
 - 🎓 I'm an Ph.D. student at the University of Rochester!
 - 🌱 I'm currently working at NVIDIA.
 - 💬 Ask me about anything you like!
+- 💙 I contribute to LLVM, mainly for its libc runtime. I do this for love, for run, and for making the world a bit better.
 - 📫 How to reach me: 
   - email: i@zhuyi.fan
   - twitter: @ZhuSchrodinger
