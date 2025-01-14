@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🎓 I'm an Ph.D. student at the University of Rochester!
-- 🌱 I'm currently working at NVIDIA.
+- 🌱 Former Intern at [NVIDIA](https://github.com/nvidia), [PingCAP](https://github.com/pingcap).
 - 💬 Ask me about anything you like!
 - 💙 I contribute to LLVM, mainly for its libc runtime. I do this for love, for run, and for making the world a bit better.
 - 📫 How to reach me: 
