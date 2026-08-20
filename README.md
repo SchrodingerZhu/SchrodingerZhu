@@ -1,9 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=schrodingerzhu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
 ### Hi there 👋
 
 - 🎓 I'm an Ph.D. student at the University of Rochester!
-- 🌱 Former Intern at [NVIDIA](https://github.com/nvidia), [PingCAP](https://github.com/pingcap).
+- 🌱 Former Intern at [Google](https://github.com/Google), [NVIDIA](https://github.com/nvidia), [PingCAP](https://github.com/pingcap).
 - 💬 Ask me about anything you like!
 - 💙 I contribute to LLVM, mainly for its libc runtime. I do this for love, for run, and for making the world a bit better.
 - 📫 How to reach me: 
